@@ -14,11 +14,11 @@ Thanks for stopping by. This repo allows you to suggest ideas for exercises and 
 2. Create a new directory with the exercise name (use underscores):
    `cp -r template my_exercise_name`
 
-3. Add your exercise code to `script.py` and your tests to `test_script.py`. If you need dependencies, add them with `uv add <dependency>`.
+3. Update `script.py` and `test_script.py` with your exercise code and tests. If you need dependencies, add them with `uv add <dependency>`.
 
 4. Copy the `script.py` file to `script-template.py`, and remove the solution code that you don't want users to see (this version is what users will see when they first open the exercise).
 
-5. Update the level, tags, dependencies, and GitHub user to credit in the `README.md` file header (some dependencies might not be supported yet on our platform, we can discuss this in the PR). Then write the exercise: title and description.
+5. Update the exercise level, tags, its dependencies (pyproject.toml will contain multiple exercises' dependencies over time), and your GitHub user handle to credit in the `exercise.md` file header. Note that some dependencies might not be supported yet on our platform, we can discuss this further in the PR (step 7). Then write your exercise updating title + description.
 
 6. Validate that the code works locally by running the tests in your exercise directory: `uv run pytest --cov=script --cov-fail-under=90 --cov-report=term-missing`
 
