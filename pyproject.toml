@@ -1,0 +1,12 @@
+[project]
+name = "python-bite-exercises"
+version = "0.1.0"
+description = "Repo to submite Pybites bite exercises"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.uv]
+dev-dependencies = [
+    "pytest-cov>=5.0.0",
+]
