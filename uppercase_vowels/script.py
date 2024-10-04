@@ -1,0 +1,3 @@
+def uppercase_vowels(text: str) -> str:
+    ...
+

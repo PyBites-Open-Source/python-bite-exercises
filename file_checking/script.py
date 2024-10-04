@@ -1,3 +1,0 @@
-def check_file(filename: str) -> bool:
-    ...
-
