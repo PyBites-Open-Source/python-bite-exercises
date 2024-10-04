@@ -2,9 +2,11 @@
 
 Thanks for stopping by. This repo allows you to suggest ideas for exercises and write your own. A nice way to contribute as part of Hacktoberfest 2024!
 
+Before submitting an idea or exercise, [check our existing collection](https://pybitesplatform.com/bites/regular/) to make sure we don't already have something similar.
+
 ## How to suggest an idea
 
-1. [Create an issue](#) with a short description of your exercise idea.
+1. [Create an issue](https://github.com/PyBites-Open-Source/python-bite-exercises/issues) with a short description of your exercise idea.
 2. If you want to write the exercise, mention this in the issue.
 
 ## How to write your own exercise
