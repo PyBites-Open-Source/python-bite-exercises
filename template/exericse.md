@@ -1,7 +1,7 @@
 ---
 Level (beginner, intermediate, advanced):
 Tags (2-5):
-Dependencies (list any required libraries or leave as "None"):
+Dependencies (list any required libraries if applicable):
 GitHub user to credit:
 ---
 
