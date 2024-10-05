@@ -15,7 +15,7 @@ GitHub user to credit: xettrisomeman
 Examples of `extensions`:
 ```
 jpeg
-jpg 
+jpg
 mp3
 mp4
 pdf
@@ -28,7 +28,7 @@ exe
 Example Usage:
 ```python
 
-uppercase_vowels("abcDeFGHIJ") # AbcdEfghIj 
+uppercase_vowels("abcDeFGHIJ") # AbcdEfghIj
 uppercase_vowels("..-") # "   "
 uppercase_vowels("file monk.exe") # fIlE mOnk.exe
 ```
