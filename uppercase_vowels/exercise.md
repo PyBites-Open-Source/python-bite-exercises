@@ -1,6 +1,6 @@
 ---
 Level (beginner, intermediate, advanced): beginner
-Tags (2-5): string
+Tags (2-5): strings, strings manipulation, loops
 Dependencies (list any required libraries or leave as "None"):
 GitHub user to credit: xettrisomeman
 ---
